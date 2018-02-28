@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/styles.css"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="250px" height="250px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+	 <script type="text/ecmascript">
+		 document.rootElement.addEventListener('click', function(){
+		    paths = document.querySelectorAll('path');
+		    paths.forEach(function(path){
+		        path.setAttribute('fill', '#666666');
+		        path.classList.add('anim2');
+		    })
+		 });
+ 	 </script>
+<path id="path_V" class="V path_class" fill="#CA0029" d="M181.809,124.414h-61.321v6.872c0,0,11.852,0.176,18.195,3.171c6.345,2.995,12.224,6.824,20.152,23.034
+	c7.932,16.212,80.596,218.095,80.596,218.095h24.313l77.005-210.298c0,0,5.021-20.086,14.709-26.428
+	c9.689-6.343,20.129-7.575,24.054-7.398v-7.048h-47.578l-75.767,204.131L181.809,124.414z"/>
+<path id="path_F" class="F path_class" fill="#666666" d="M290.703,124.414h-72.101v3.171c0,0,11.774-2.468,11.774,11.805v90.987h15.698v-51.02h18.728
+	c0,0,11.805,0,12.157,11.774h0.514v-31.396h-0.514c0,0,2.38,11.774-12.908,11.774h-17.977v-32.296c0,0-0.832-6.95,8.863-6.95h10.923
+	c0,0,16.212-1.221,19.381,6.354c3.17,7.577,4.58,17.193,4.58,17.193h2.468L290.703,124.414z"/>
+<path id="path_PD" class="PD path_class" fill="#666666" d="M143.527,297.232c0,5.021-4.074,9.092-9.093,9.092c-5.024,0-9.099-4.07-9.099-9.092
+	c0-5.024,4.074-9.094,9.099-9.094C139.453,288.139,143.527,292.208,143.527,297.232"/>
+<path id="path_PG" class="PG path_class" fill="#666666" d="M370.306,297.232c0,5.021-4.078,9.092-9.095,9.092c-5.024,0-9.095-4.07-9.095-9.092
+	c0-5.024,4.07-9.094,9.095-9.094C366.228,288.139,370.306,292.208,370.306,297.232"/>
+</svg>
